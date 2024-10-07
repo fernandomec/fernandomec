@@ -3,30 +3,6 @@
 ## 🧑‍💻 Sobre mim
 Tenho 20 anos, sou Técnico em Desenvolvimento de Sistemas e atualmente curso Bacharelado em Engenharia de Software. Possuo uma sólida formação em desenvolvimento de soluções web e estou constantemente aprimorando minhas habilidades para me tornar um desenvolvedor full-stack.
 
-## 💼 Experiências Profissionais
-
-**Desenvolvedor Full-Stack (Em busca de oportunidade)**
-*Atualmente, estou em busca de uma oportunidade para aplicar e expandir minhas habilidades em desenvolvimento web. Tenho interesse em projetos que envolvam tanto o front-end quanto o back-end.*
-
-**Projetos Pessoais**
-*Atualmente, estou desenvolvendo projetos pessoais focados na criação de aplicações web utilizando tecnologias como HTML5, CSS3, JavaScript, Node.js e Express.js.*
-
-
-## 🎓 Formação
-**Bacharel em Engenharia de Software, UCSAL (Universidade Católica de Salvador)**<br>
-Conclusão prevista: 2027
-
-**Técnico em Desenvolvimento de Sistemas, Senai CIMATEC**<br>
-Concluído: 2024
-
-## 🌐 Meu Card Pessoal
-Acesse meu card pessoal para ver meus links de contato e portfólio, incluindo GitHub, LinkedIn, E-mail, além de uma funcionalidade de alternância entre os modos claro e escuro da página: [https://fernandomec.github.io](https://fernandomec.github.io)
-
-## 📫 Contato
-- **Email:** fernandomec2013@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/fernando-matos-eugenio/](https://www.linkedin.com/in/fernando-matos-eugenio/)
-- **GitHub:** [https://github.com/fernandomec](https://github.com/fernandomec)
-
 ## 💻 Linguagens & Ferramentas que possuo conhecimento:
 
 <h3 align="center">Linguagens</h3>
@@ -86,3 +62,27 @@ Acesse meu card pessoal para ver meus links de contato e portfólio, incluindo G
     <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png" title="Windows" alt="windows logo" style="width: 60px; height: 60px;" />
 </div>
 <p align="center">Windows</p>
+
+## 💼 Experiências Profissionais
+
+**Desenvolvedor Full-Stack (Em busca de oportunidade)**
+*Atualmente, estou em busca de uma oportunidade para aplicar e expandir minhas habilidades em desenvolvimento web. Tenho interesse em projetos que envolvam tanto o front-end quanto o back-end.*
+
+**Projetos Pessoais**
+*Atualmente, estou desenvolvendo projetos pessoais focados na criação de aplicações web utilizando tecnologias como HTML5, CSS3, JavaScript, Node.js e Express.js.*
+
+
+## 🎓 Formação
+**Bacharel em Engenharia de Software, UCSAL (Universidade Católica de Salvador)**<br>
+Conclusão prevista: 2027
+
+**Técnico em Desenvolvimento de Sistemas, Senai CIMATEC**<br>
+Concluído: 2024
+
+## 🌐 Meu Card Pessoal
+Acesse meu card pessoal para ver meus links de contato e portfólio, incluindo GitHub, LinkedIn, E-mail, além de uma funcionalidade de alternância entre os modos claro e escuro da página: [https://fernandomec.github.io](https://fernandomec.github.io)
+
+## 📫 Contato
+- **Email:** fernandomec2013@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/fernando-matos-eugenio/](https://www.linkedin.com/in/fernando-matos-eugenio/)
+- **GitHub:** [https://github.com/fernandomec](https://github.com/fernandomec)

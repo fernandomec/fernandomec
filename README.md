@@ -81,7 +81,7 @@ Acesse meu card pessoal para ver meus links de contato e portfólio, incluindo G
 </div>
 <p align="center">Git, GitHub, Power BI</p>
 
-<h3 align="center">Sistemas Operacionais</h3>
+<h3 align="center">Sistema Operacional</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png" title="Windows" alt="windows logo" style="width: 60px; height: 60px;" />
 </div>

@@ -13,10 +13,10 @@ Tenho 20 anos, sou Técnico em Desenvolvimento de Sistemas e atualmente curso Ba
 
 
 ## 🎓 Formação
-**Bacharel em Engenharia de Software, UCSAL (Universidade Católica de Salvador)**
+**Bacharel em Engenharia de Software, UCSAL (Universidade Católica de Salvador)**<br>
 Conclusão prevista: 2027
 
-**Técnico em Desenvolvimento de Sistemas, Senai CIMATEC**
+**Técnico em Desenvolvimento de Sistemas, Senai CIMATEC**<br>
 Concluído: 2024
 
 ## 🌐 Meu Card Pessoal
